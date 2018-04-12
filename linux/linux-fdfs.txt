@@ -1,0 +1,22 @@
+fastdfs 安装
+
+		
+	方式 ： 
+	
+	
+	参考链接 ：
+		A	https://www.linuxidc.com/Linux/2016-09/135537.htm
+		B	http://blog.csdn.net/yxflovegs2012/article/details/53611134
+		C	http://blog.csdn.net/hohoo1990/article/details/51444793
+	
+	配置事项 ：
+	
+	
+	临时存储 ：
+		
+		
+		f644d618b91b49aca29785d54393988c
+		
+		
+		
+	

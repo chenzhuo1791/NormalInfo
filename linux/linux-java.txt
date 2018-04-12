@@ -1,0 +1,17 @@
+
+
+export JAVA_HOME=/usr/java/jdk1.8.0_102
+export JRE_HOME=/usr/java/jdk1.8.0_102/jre
+export CLASSPATH=.:$JAVA_HOME/lib:$JRE_HOME/lib:$CLASSPATH
+export PATH=$JAVA_HOME/bin:$JRE_HOME/bin:$PATH
+
+InUsing :
+export JAVA_HOME=/usr/java/jdk1.7.0_71
+export JRE_HOME=/usr/java/jdk1.7.0_71/jre
+export CLASSPATH=.:$JAVA_HOME/lib:$JRE_HOME/lib:$CLASSPATH
+export PATH=$JAVA_HOME/bin:$JRE_HOME/bin:$PATH
+
+
+	参考链接 ：
+		A	https://zhidao.baidu.com/question/1607489423325769587.html
+		B	https://www.cnblogs.com/kerrycode/archive/2015/08/27/4762921.html

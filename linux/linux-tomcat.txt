@@ -1,0 +1,16 @@
+tomcat 安装
+		
+	方式 ： 
+		ftp tar 
+	
+	参考链接 ：
+		A	https://www.linuxidc.com/Linux/2016-08/134409.htm
+	
+	配置事项 ：
+		*.sh 执行权限
+		JAVA_HOME
+		java文件权限
+	
+	临时存储 ：
+		
+	

@@ -1,0 +1,15 @@
+mongodb 安装
+	
+	方式 ： 
+		curl tar
+	
+	参考链接 ：
+		A	http://www.runoob.com/mongodb/mongodb-linux-install.html
+	
+	
+	配置事项 ：
+		
+	
+	临时存储 ：
+		
+		/home/local/mongodb/bin/mongod --dbpath=/home/local/mongodb/data --logpath /home/local/mongodb/log.log -fork -port 27017

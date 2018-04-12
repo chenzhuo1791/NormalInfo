@@ -1,0 +1,33 @@
+mysql 安装 :
+	方式 ： 
+		二进制文件安装
+	参考链接 ：
+		A	http://www.bubuko.com/infodetail-1873886.html
+		B	http://blog.csdn.net/lifupingcn/article/details/52702924
+		
+	配置事项 ：
+		
+		A mysql初始化：
+			./bin/mysqld --initialize --user=mysql --basedir=/usr/local/mysql/  --datadir=/usr/local/mysql/data 
+			
+	
+	
+	临时存储 ：
+		
+	
+	
+	
+	方式 ： 
+	
+	
+	参考链接 ：
+	
+	
+	配置事项 ：
+	
+	
+	临时存储 ：
+		
+	
+	
+	

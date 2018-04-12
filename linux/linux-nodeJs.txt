@@ -1,0 +1,17 @@
+nodeJs 安装 ：
+	
+		
+	方式 ： 
+		ftp ln
+	
+	参考链接 ：
+		A	https://www.douban.com/note/314200231/
+		B	https://www.cnblogs.com/jaxu/p/5193643.html
+		C	https://www.cnblogs.com/liuqi/p/6483317.html
+		D	http://blog.csdn.net/tiantangyouzui/article/details/53914488
+	配置事项 ：
+	
+	
+	临时存储 ：
+		
+	

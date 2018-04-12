@@ -1,0 +1,16 @@
+Linux 防火墙开放特定端口 （iptables）
+
+	方式 ： 
+		vim 
+	
+	参考链接 ：
+		A	https://www.cnblogs.com/wucg/p/6143204.html
+
+	
+	配置事项 ：
+	
+	
+	临时存储 ：
+		vim /etc/sysconfig/iptables
+		service iptables restart
+	

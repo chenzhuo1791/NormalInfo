@@ -1,0 +1,18 @@
+redis 安装 ：
+		
+	方式 ： 
+		tar make auth
+	
+	参考链接 ：
+		A	https://www.cnblogs.com/oskyhg/p/7293905.html
+		B	http://blog.csdn.net/zyz511919766/article/details/42268219
+		C	http://blog.csdn.net/yjqyyjw/article/details/73293455
+		
+	
+	配置事项 ：
+	
+		A	tar zvxf redis-3.0.1.tar.gz -C /usr/local
+		
+		
+	临时存储 ：
+	

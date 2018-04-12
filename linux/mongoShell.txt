@@ -1,0 +1,5 @@
+
+
+mongod.exe
+
+--dbpath=E:/Mongo/mongo/mongo2-0-3/db --logpath=E:/Mongo/mongo/mongo2-0-3/log.log --install

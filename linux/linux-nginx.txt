@@ -1,0 +1,16 @@
+nginx 安装
+
+	
+	方式 ： 
+	
+	
+	参考链接 ：
+		A	https://www.linuxidc.com/Linux/2016-08/134110.htm
+		B	https://www.cnblogs.com/wyd168/p/6636529.html
+		C	http://blog.csdn.net/white__cat/article/details/37923087
+	配置事项 ：
+	
+	
+	临时存储 ：
+		
+	

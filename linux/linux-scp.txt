@@ -1,0 +1,42 @@
+一 介绍 ：SCP
+	服务器之间文件复制与传输
+	
+二 说明 ：
+	常用于流文件跨服务器的备份、复制、传输
+
+三 命令例子 ：
+
+	
+	scp -r /home/fastdfs/data/M00/00/00/. 10.1.8.229:/home/fastdfs/data/M00/00/00/
+	
+	
+	scp -r /home/fastdfs/data/M00/00/46/. 10.1.8.229:/home/fastdfs/data/M00/00/46/
+	scp -r /home/fastdfs/data/M00/00/47/. 10.1.8.229:/home/fastdfs/data/M00/00/47/
+	scp -r /home/fastdfs/data/M00/00/48/. 10.1.8.229:/home/fastdfs/data/M00/00/48/
+	scp -r /home/fastdfs/data/M00/00/49/. 10.1.8.229:/home/fastdfs/data/M00/00/49/
+	scp -r /home/fastdfs/data/M00/00/4A/. 10.1.8.229:/home/fastdfs/data/M00/00/4A/
+	
+	scp -r /home/fastdfs/data/M00/00/4B/. 10.1.8.229:/home/fastdfs/data/M00/00/4B/
+	scp -r /home/fastdfs/data/M00/00/4C/. 10.1.8.229:/home/fastdfs/data/M00/00/4C/
+	scp -r /home/fastdfs/data/M00/00/4D/. 10.1.8.229:/home/fastdfs/data/M00/00/4D/
+	scp -r /home/fastdfs/data/M00/00/4E/. 10.1.8.229:/home/fastdfs/data/M00/00/4E/
+	scp -r /home/fastdfs/data/M00/00/4F/. 10.1.8.229:/home/fastdfs/data/M00/00/4F/
+	
+	scp -r /home/fastdfs/data/M00/00/4B/. 10.1.8.229:/home/fastdfs/data/M00/00/4B/
+	scp -r /home/fastdfs/data/M00/00/4E/. 10.1.8.229:/home/fastdfs/data/M00/00/4E/
+	
+	
+	scp -r /home/fastdfs/data/M00/00/33/. 10.1.8.230:/home/fastdfs/data/M00/00/33/
+	scp -r /home/fastdfs/data/M00/00/34/. 10.1.8.230:/home/fastdfs/data/M00/00/34/
+	scp -r /home/fastdfs/data/M00/00/3E/. 10.1.8.230:/home/fastdfs/data/M00/00/3E/
+	
+	scp -r /home/fastdfs/data/M00/00/4F/. 10.1.8.230:/home/fastdfs/data/M00/00/4F/
+	
+	4E/CgEI41qWHJKAeaE1AAE-4nacRW8836.jpg
+	
+	scp -r /home/fastdfs/data/M00/00/2A/CgEI41g_kjCAQPpkAABREaETOhk410.png 10.1.8.230:/home/fastdfs/data/M00/00/2A/CgEI41g_kjCAQPpkAABREaETOhk410.png
+	
+	scp -r /home/fastdfs/data/M00/00/4E/CgEI41qWHJKAeaE1AAE-4nacRW8836.jpg 10.1.8.230:/home/fastdfs/data/M00/00/4E/CgEI41qWHJKAeaE1AAE-4nacRW8836.jpg
+	
+	
+	
