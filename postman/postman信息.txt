@@ -1,3 +1,9 @@
-postMan:
-	username : chenzhuo791
+postMan1:
+        username : chenzhuo791
 	passeword : chenzhuo1791
+	userEmail : 1512337341@qq.com
+	
+postMan2:
+        username : chenzhuo371
+	passeword : chenzhuo3371
+	userEmail : 2271182416@qq.com
