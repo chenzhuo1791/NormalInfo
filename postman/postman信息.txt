@@ -7,3 +7,8 @@ postMan2:
         username : chenzhuo371
 	passeword : chenzhuo3371
 	userEmail : 2271182416@qq.com
+	
+postman3:
+	username : carl791
+	passeword : chenzhuo1791
+	userEmail : 15161171791@163.com
